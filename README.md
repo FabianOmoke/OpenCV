@@ -1,5 +1,5 @@
 # OpenCV
-# DRAWING WITH MOUSE OPENCV
+# DRAWING WITH THE MOUSE USING OPENCV
 
 DrawingWithMouse.py --> Drawing shapes using mouse events. *On Mouse Click (LeftClick)*
 
